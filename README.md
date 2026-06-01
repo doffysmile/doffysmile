@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Julia Victoria 👋
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6661ab81-817b-471a-844f-66a01f3e59e6" />
 
-<!--
-**doffysmile/doffysmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🎓 Estudante de Ciência da Computação.
+💻 Atualmente estudando:
+- Java
+- C++
+- Python
+- Linux (Fedora)
 
-Here are some ideas to get you started:
+### Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
+
+### Sistemas e Ferramentas
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+
+
+
