@@ -1,5 +1,6 @@
 # Olá, eu sou Julia Victoria 👋
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/6661ab81-817b-471a-844f-66a01f3e59e6" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/b1a3d161-7859-47dc-a55d-70fb9971bc7a" />
+
 
 # 🎓 Estudante de Ciência da Computação.
 💻 Atualmente estudando:
@@ -21,11 +22,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
 
 
 
