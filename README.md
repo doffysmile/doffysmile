@@ -1,5 +1,7 @@
 # Olá, eu sou Julia Victoria 👋
 
+<img width="828" height="267" alt="image" src="https://github.com/user-attachments/assets/3b1cea1f-1590-4b4b-9256-2de9476aeda0" />
+
 
 
 # 🎓 Estudante de Ciência da Computação.
@@ -30,6 +32,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/j%c3%balia-vict%c3%b3ria-silva-48a3b1341/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/j%c3%balia-vict%c3%b3ria-silva-48a3b1341/" height="30" width="40" /></a>
+</p>
 
 
 
