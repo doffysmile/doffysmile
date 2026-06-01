@@ -1,13 +1,21 @@
 # Olá, eu sou Julia Victoria 👋
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/b1a3d161-7859-47dc-a55d-70fb9971bc7a" />
+
 
 
 # 🎓 Estudante de Ciência da Computação.
-💻 Atualmente estudando:
-- Java
-- C++
-- Python
-- Linux (Fedora)
+![PUCPR](https://img.shields.io/badge/PUCPR-Ciência%20da%20Computação-blue?style=for-the-badge)
+
+## 💻 Atualmente estudando:
+
+![Java](https://img.shields.io/badge/Java-Intermediário-orange?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-Em%20Evolução-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-Intermediário-yellow?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-Intermediário%20%2F%20Avançado-green?style=for-the-badge&logo=linux&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-Básico-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Linguagens
 
