@@ -1,8 +1,9 @@
 # Olá, eu sou Julia Victoria 👋
 
 <p align="center">
+  
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/9d03e44b-e530-41ae-b98d-f8c7c4debe61" />
 
-<img width="427" height="261" alt="image" src="https://github.com/user-attachments/assets/ae0bb728-dc98-4615-9ecc-97b194d9f833" />
 
 </p>
 # 🎓 Estudante de Ciência da Computação.
