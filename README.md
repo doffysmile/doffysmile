@@ -1,8 +1,10 @@
 # Olá, eu sou Julia Victoria 👋
 
-<img width="900" height="462" alt="image" src="https://github.com/user-attachments/assets/16aa2737-bfaf-4aad-a89a-221d722b8edf" />
+<p align="center">
 
+<img width="427" height="261" alt="image" src="https://github.com/user-attachments/assets/ae0bb728-dc98-4615-9ecc-97b194d9f833" />
 
+</p>
 # 🎓 Estudante de Ciência da Computação.
 
 ![PUCPR](https://img.shields.io/badge/PUCPR-Ciência%20da%20Computação-blue?style=for-the-badge)
