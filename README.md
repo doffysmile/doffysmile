@@ -21,6 +21,8 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Básico-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doffysmile&show_icons=true&theme=chartreuse-dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffysmile&layout=compact&theme=chartreuse-dark"/>
