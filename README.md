@@ -21,6 +21,11 @@
 
 ![SQL](https://img.shields.io/badge/SQL-Básico-lightgrey?style=for-the-badge&logo=mysql&logoColor=white)
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=doffysmile&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffysmile&layout=compact&theme=chartreuse-dark"/>
+</p>
+
 ## Sistemas e Ferramentas:
 
 ![Linux](https://img.shields.io/badge/Linux-Intermediário%20%2F%20Avançado-green?style=for-the-badge&logo=linux&logoColor=white)
