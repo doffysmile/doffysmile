@@ -50,13 +50,13 @@ My main focus today is backend development, software engineering fundamentals an
 
 ## Highlighted Projects
 
-📚 **Library JDBC Integration**  
+**Library JDBC Integration**  
 Java project focused on database integration using JDBC and SQL.
 
-☕ **JAVA Oracle Studies**  
+**JAVA Oracle Studies**  
 Repository dedicated to Java studies, OOP concepts and Oracle certification preparation.
 
-🤖 **NEO**  
+**NEO**  
 Personal project focused on building a command-line assistant and improving programming logic.
 
 ---
