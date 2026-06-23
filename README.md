@@ -10,11 +10,7 @@
 
 ## About Me
 
-I am currently pursuing a degree in **Computer Science at PUCPR** and continuously working to improve my skills as a software developer.
-
-I enjoy building projects that challenge my logical thinking and help me better understand how software works internally.
-
-My main focus today is backend development, software engineering fundamentals and strengthening my programming foundations.
+I am currently pursuing a graduation in **Computer Science at PUCPR** and continuously working to improve my skills as a software developer.
 
 - Computer Science Student — PUCPR  
 - Main focus on Java Development  
