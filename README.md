@@ -67,13 +67,17 @@ Personal project focused on building a command-line assistant and improving prog
 - Continue evolving as a developer every day  
 
 ---
-
 ## GitHub Stats
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=doffysmile&show_icons=true&theme=chartreuse-dark"/>
+## 📊 GitHub Stats
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffysmile&layout=compact&theme=chartreuse-dark"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=doffysmile&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doffysmile&layout=compact&theme=chartreuse-dark&langs_count=8"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doffysmile&theme=chartreuse-dark"/>
 </p>
 
 ---
