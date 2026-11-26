@@ -26,16 +26,6 @@
 
 I am currently pursuing a graduation in **Computer Science at PUCPR** and continuously working to improve my skills as a software developer.
 
-- Computer Science Student — PUCPR  
-- Main focus on Java Development  
-- Experience with Python  
-- Linux user and enthusiast  
-- Learning Databases and SQL  
-
----
-
-## Technologies I Am Studying
-
 ### Languages
 
 ![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -58,19 +48,6 @@ I am currently pursuing a graduation in **Computer Science at PUCPR** and contin
 
 ---
 
-## Highlighted Projects
-
-**Library JDBC Integration**  
-Java project focused on database integration using JDBC and SQL.
-
-**JAVA Oracle Studies**  
-Repository dedicated to Java studies, OOP concepts and Oracle certification preparation.
-
-**NEO**  
-Personal project focused on building a command-line assistant and improving programming logic.
-
----
-
 ## Current Goals
 
 - Deepen Java knowledge  
@@ -78,7 +55,7 @@ Personal project focused on building a command-line assistant and improving prog
 - Study Database Systems  
 - Build stronger Backend projects  
 - Learn more about Software Architecture  
-- Continue evolving as a developer every day  
+
 ---
 
 ## Connect With Me
@@ -94,12 +71,4 @@ Personal project focused on building a command-line assistant and improving prog
 </a>
 
 </p>
-
----
-
-> “Always learning, always building.”
-```
-
-
-
 
